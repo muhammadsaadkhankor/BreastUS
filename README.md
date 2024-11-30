@@ -5,7 +5,7 @@ This repository contains the implementation and results of a research study focu
 ## Framework Overview
 The following diagram illustrates the workflow of the proposed framework:
 
-![Framework Overview](assets/framework.png)
+![Framework Overview](assets/frameWork_BreastUS.png)
 
 ## Highlights
 - **Objective**: Enhance diagnostic accuracy by comparing CNN and ViT models on breast ultrasound images.
