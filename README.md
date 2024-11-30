@@ -11,7 +11,7 @@ The following diagram illustrates the workflow of the proposed framework:
 - **Objective**: Enhance diagnostic accuracy by comparing CNN and ViT models on breast ultrasound images.
 - **Dataset**: Breast ultrasound images annotated for classification into malignant or normal categories.
 - **Deep Learning Models Trained**:
-  - **CNN Architectures**: [Specify CNN models such as ResNet, VGG, Inception, etc.]
+  - **CNN Architectures**: [Specify CNN models such as VGG16, InceptionV3, Xception, ResNet101V2, InceptionResNetV2.]
   - **Vision Transformer (ViT)**: Explores the application of transformer-based architectures for medical imaging.
 - **Comparative Analysis**:
   - Evaluation using performance metrics like accuracy, sensitivity, specificity, and AUC.
